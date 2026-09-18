@@ -1,0 +1,5 @@
+# Claude Code local and agent files (may contain credentials or auth tokens).
+# The spec-kit skills under .claude/skills/ stay versioned.
+.claude/*
+!.claude/skills/
+.claude/settings.local.json
